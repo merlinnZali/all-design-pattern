@@ -21,6 +21,7 @@ public class App {
     }
 }
 
+// Function composite and decorator
 class MyCamera{
 
     Function<Color, Color> filter;

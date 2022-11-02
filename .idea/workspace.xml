@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba2a8e9-736b-47b5-a218-e5d8f8cc6263" name="Changes" comment="push all">
+    <list default="true" id="1ba2a8e9-736b-47b5-a218-e5d8f8cc6263" name="Changes" comment="update images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/creation/abstractFactory/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/abstractFactory/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/creation/builder/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/builder/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/creation/factoryMethod/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/factoryMethod/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/creation/prototype/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/prototype/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/creation/singleton/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/singleton/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/structural/adaptor/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/adaptor/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/structural/bridge/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/bridge/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/structural/composite/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/composite/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/structural/facade/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/facade/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667400237391</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update images">
+      <created>1667400913774</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667400913774</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,7 +202,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="git ignore" />
     <MESSAGE value="push all" />
-    <option name="LAST_COMMIT_MESSAGE" value="push all" />
+    <MESSAGE value="update images" />
+    <option name="LAST_COMMIT_MESSAGE" value="update images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
