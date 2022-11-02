@@ -6,7 +6,7 @@
 ## pseudo code
 > Dans cet exemple, la Façade simplifie l’interaction avec un framework complexe de conversion vidéo.
 
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/facade/example.png">
+<img src="./example.png">
 <br>
 
 ## Possibilités d’application

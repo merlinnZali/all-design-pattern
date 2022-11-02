@@ -3,5 +3,5 @@
 ## Intention
 > Prototype est un patron de conception qui crée de nouveaux objets à partir d’objets existants sans rendre le code dépendant de leur classe.
 
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/creation/prototype/structure.png">
+<img src="./structure.png">
 <div style="width:100%; height:1px;background:white;"></div>

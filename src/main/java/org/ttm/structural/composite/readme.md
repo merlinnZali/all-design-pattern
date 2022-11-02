@@ -4,13 +4,13 @@
 >Composite est un patron de conception structurel qui permet d’agencer les objets dans des arborescences afin de pouvoir traiter celles-ci comme des objets individuels.
 
 ## tructure
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/composite/structure.png">
+<img src="./structure.png">
 <div style="width:100%; height:1px;background:white;"></div>
 
 ## example
 >Dans cet exemple, le patron de conception Composite nous permet de gérer des imbrications de formes géométriques dans un éditeur graphique.
 > 
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/composite/example.png">
+<img src="./example.png">
 
 ## Possibilités d’application
 <b>Utilisez le pont dans les situations où vous souhaitez diviser et organiser une classe monolithique composée de plusieurs variantes d’une fonctionnalité (par exemple, si la classe fonctionne avec différents serveurs de base de données).</b>

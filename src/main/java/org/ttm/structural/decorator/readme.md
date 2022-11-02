@@ -5,11 +5,11 @@
 > Décorateur est un patron de conception structurel qui permet d’affecter dynamiquement de nouveaux comportements à des objets en les plaçant dans des emballeurs qui implémentent ces comportements.
 
 ## tructure
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/decorator/solution.png">
+<img src=".solution.png">
 Des méthodes de notification deviennent des décorateurs.
 <div style="width:100%; height:1px;background:white;"></div>
 <br>
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/decorator/solution2.png">
+<img src=".solution2.png">
 Les applications peuvent configurer des piles complexes de décorateurs pour les notifications.
 <div style="width:100%; height:1px;background:white;"></div>
 <br>
@@ -17,7 +17,7 @@ Les applications peuvent configurer des piles complexes de décorateurs pour les
 ## pseudo code
 > Dans cet exemple, le Décorateur permet la compression et le chiffrage des données indépendamment du code qui les utilise.
 
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/decorator/example.png">
+<img src=".example.png">
 <br>
 
 ## Possibilités d’application

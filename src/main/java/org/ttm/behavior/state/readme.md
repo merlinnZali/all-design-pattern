@@ -11,11 +11,11 @@
 > Plutôt que d’implémenter tous les comportements de lui-même, l’objet original que l’on nomme contexte, stocke une référence vers un des objets état qui représente son état actuel. Il délègue tout ce qui concerne la manipulation des états à cet objet.
 
 
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/behavior/state/state.solution.png">
+<img src="./state.solution.png">
 <div style="width:100%; height:1px;background:white;"></div>
 
 ## Structure
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/behavior/state/state.structure.png">
+<img src="./state.structure.png">
 
 ## Possibilités d’application
 <b>Utilisez le patron de conception état lorsque le comportement de l’un de vos objets varie en fonction de son état, qu’il y a beaucoup d’états différents et que ce code change souvent.</b>

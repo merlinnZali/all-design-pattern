@@ -4,21 +4,21 @@
 > La Procuration est un patron de conception structurel qui vous permet d’utiliser un substitut pour un objet. Elle donne le contrôle sur l’objet original, vous permettant d’effectuer des manipulations avant ou après que la demande ne lui parvienne.
 
 ## problem
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/proxy/problem.png">
+<img src="./problem.png">
 <br>
 
 ## solution
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/proxy/solution.png">
+<img src="./solution.png">
 <br>
 
 ## structure
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/proxy/structure.png">
+<img src="./structure.png">
 <br>
 
 
 ## pseudo code
 
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/proxy/example.png">
+<img src="./example.png">
 <br>
 
 ## Possibilités d’application

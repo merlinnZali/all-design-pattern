@@ -4,10 +4,10 @@
 > Le Pont est un patron de conception structurel qui permet de séparer une grosse classe ou un ensemble de classes connexes en deux hiérarchies — abstraction et implémentation — qui peuvent évoluer indépendamment l’une de l’autre.
 
 ## tructure
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/bridge/structure.png">
+<img src="./structure.png">
 <div style="width:100%; height:1px;background:white;"></div>
 ## example
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/bridge/example.png">
+<img src="./example.png">
 
 ## Possibilités d’application
 <b>Utilisez le pont dans les situations où vous souhaitez diviser et organiser une classe monolithique composée de plusieurs variantes d’une fonctionnalité (par exemple, si la classe fonctionne avec différents serveurs de base de données).</b>

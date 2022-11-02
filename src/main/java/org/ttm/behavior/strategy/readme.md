@@ -4,9 +4,9 @@
 > Stratégie est un patron de conception comportemental qui permet de définir une famille d’algorithmes, 
 de les mettre dans des classes séparées et de rendre leurs objets interchangeables.
 
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/behavior/strategy/strategy.png">
+<img src="./strategy.png">
 <div style="width:100%; height:1px;background:white;"></div>
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/behavior/strategy/strategy.structure.png">
+<img src="./strategy.structure.png">
 
 ## Possibilités d’application
 <b>Utilisez le patron de conception stratégie si vous voulez avoir différentes variantes d’un algorithme à l’intérieur d’un objet à disposition, 

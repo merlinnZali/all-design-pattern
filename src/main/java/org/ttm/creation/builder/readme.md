@@ -7,13 +7,13 @@
 > Le patron de conception monteur propose d’extraire le code du constructeur d’objet de sa classe et de le déplacer dans des objets distincts appelés monteurs.
 
 
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/creation/builder/solution.png">
+<img src="./solution.png">
 <div style="width:100%; height:1px;background:white;"></div>
 
 ## Directeur (Director)
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/creation/builder/structure.png">
+<img src="./structure.png">
 <div style="width:100%; height:1px;background:white;"></div>
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/creation/builder/example-fr.png">
+<img src="./example-fr.png">
 
 ## Possibilités d’application
 <b>Utilisez le patron de conception monteur afin de vous débarrasser d’un « constructeur télescopique ».</b>

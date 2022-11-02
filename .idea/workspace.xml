@@ -4,75 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba2a8e9-736b-47b5-a218-e5d8f8cc6263" name="Changes" comment="git ignore">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/solution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/structure2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/structure3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/ObserverP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/observer.solution1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/observer.solution2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/observer.structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/patron.problem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/patron.solution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/patron.structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/state/StateP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/state/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/state/state.solution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/state/state.structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/strategy/StrategyP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/strategy/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/strategy/strategy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/strategy/strategy.structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/abstractFactory/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/abstractFactory/solution1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/abstractFactory/solution2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/abstractFactory/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/builder/example-fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/builder/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/builder/solution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/builder/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/factoryMethod/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/factoryMethod/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/prototype/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/prototype/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/singleton/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/singleton/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/adaptor/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/adaptor/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/adaptor/solution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/adaptor/structure-object-adapter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/bridge/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/bridge/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/bridge/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/composite/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/composite/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/composite/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/solution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/solution2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/facade/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/facade/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/problem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/solution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="1ba2a8e9-736b-47b5-a218-e5d8f8cc6263" name="Changes" comment="push all">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/creation/abstractFactory/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/abstractFactory/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/creation/builder/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/builder/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/creation/factoryMethod/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/factoryMethod/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/creation/prototype/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/prototype/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/creation/singleton/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/singleton/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/structural/adaptor/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/adaptor/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/structural/bridge/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/bridge/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/structural/composite/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/composite/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/structural/facade/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/facade/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667399733965</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="git ignore">
+      <created>1667400200439</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667400200439</updated>
+    </task>
+    <task id="LOCAL-00008" summary="push all">
+      <created>1667400237391</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667400237391</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,7 +205,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
+    <MESSAGE value="push all" />
+    <option name="LAST_COMMIT_MESSAGE" value="push all" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

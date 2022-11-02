@@ -15,17 +15,17 @@
  - Lorsque l’adaptateur reçoit un appel, il passe la requête au second objet dans un format et dans un ordre qu’il peut interpréter.
 
 
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/adaptor/solution.png">
+<img src="./solution.png">
 
 
 ### Adaptateur d’objets
 >Cette implémentation a recours au principe de composition : l’adaptateur implémente l’interface d’un objet et en encapsule un autre. Elle peut être utilisée dans tous les langages de programmation classiques.
 
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/adaptor/structure-object-adapter.png">
+<img src="./structure-object-adapter.png">
 
 ### pseudo code
 
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural/adaptor/example.png">
+<img src="./example.png">
 
 
 ## Possibilités d’application

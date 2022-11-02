@@ -10,13 +10,13 @@
 > Le patron de conception Observateur vous propose d’ajouter un mécanisme de souscription à la classe diffuseur pour permettre aux objets individuels de s’inscrire ou se désinscrire de ce diffuseur. Pas d’inquiétude ! Ce n’est pas si compliqué que cela en a l’air. En réalité, ce mécanisme est composé 1) d’un tableau d’attributs qui stocke une liste de références vers les objets souscripteur et 2) de plusieurs méthodes publiques qui permettent d’ajouter ou de supprimer des souscripteurs de cette liste.
 
 
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/behavior/observer/observer.solution1.png">
+<img src="./observer.solution1.png">
 <div style="width:100%; height:1px;background:white;"></div>
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/behavior/observer/observer.solution2.png">
+<img src="./observer.solution2.png">
 
 ## Structure
 
-<img src="/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/behavior/observer/observer.structure.png">
+<img src="./observer.structure.png">
 
 ## Possibilités d’application
 <b>Utilisez le patron de conception Observateur quand des modifications de l’état d’un objet peuvent en impacter d’autres, et que l’ensemble des objets n’est pas connu à l’avance ou qu’il change dynamiquement.</b>
