@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ba2a8e9-736b-47b5-a218-e5d8f8cc6263" name="Changes" comment="git ignore">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/solution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/structure2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/memento/structure3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/ObserverP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/observer.solution1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/observer.solution2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/observer.structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/patron.problem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/patron.solution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/patron.structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/state/StateP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/state/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/state/state.solution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/state/state.structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/strategy/StrategyP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/strategy/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/strategy/strategy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/behavior/strategy/strategy.structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/abstractFactory/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/abstractFactory/solution1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/abstractFactory/solution2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/abstractFactory/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/builder/example-fr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/builder/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/builder/solution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/builder/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/factoryMethod/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/factoryMethod/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/prototype/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/prototype/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/singleton/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/creation/singleton/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/adaptor/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/adaptor/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/adaptor/solution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/adaptor/structure-object-adapter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/bridge/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/bridge/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/bridge/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/composite/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/composite/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/composite/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/solution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/solution2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/facade/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/facade/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/problem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/solution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ttm/structural/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/share/maven" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Gfny2iVAL36ZNu5hb9mj0Zi4Pt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/merlin/projets/back/DP/alldp/src/main/java/org/ttm/structural",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/ttm/structural" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/ttm/structural/facade" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/ttm/structural/decorator" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/ttm/structural/composite" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/ttm/structural/bridge" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/ttm/structural/proxy" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/ttm/structural" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/ttm/behavior/state" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/ttm/behavior/strategy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.ttm.creation" />
+      <recent name="org.ttm.structure" />
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ttm.App" />
+      <module name="alldp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ttm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ttm.behavior.observer.ObserverP" />
+      <module name="alldp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ttm.behavior.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.ObserverP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ba2a8e9-736b-47b5-a218-e5d8f8cc6263" name="Changes" comment="" />
+      <created>1666788757809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666788757809</updated>
+    </task>
+    <task id="LOCAL-00001" summary="git ignore">
+      <created>1667399536136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667399536136</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git ignore">
+      <created>1667399601022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667399601022</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git ignore">
+      <created>1667399642186</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667399642186</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git ignore">
+      <created>1667399672555</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667399672555</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git ignore">
+      <created>1667399695747</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667399695747</updated>
+    </task>
+    <task id="LOCAL-00006" summary="git ignore">
+      <created>1667399733965</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667399733965</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/ObserverP.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/ObserverP.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/ObserverP.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/ObserverP.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/ObserverP.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ttm/behavior/observer/ObserverP.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
